@@ -92,7 +92,7 @@
   }
   picture::after{
     --aqua:hsl(178,100%,50%,0.5);
-     content: url(./images/icon-view.svg);
+     content: url("icon-view.svg");
     background-color:var(--aqua);
     position: absolute;
     inset:0; 
